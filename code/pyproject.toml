@@ -16,3 +16,4 @@ file = "LICENSE"
 [project.scripts]
 dev-version = "py_dev_support.version:run"
 dev-release = "py_dev_support.release:run"
+dev-commit-all = "py_dev_support.commit_all:run"
